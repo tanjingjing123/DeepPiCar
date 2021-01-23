@@ -4,7 +4,7 @@
 
 ## An overview of how to build a Raspberry Pi and TensorFlow powered, self-driving robotic car
 
-### By [David Tian](https://towardsdatascience.com/@dctian)
+### By [Jingjing Tan](tanjingjing1994@gmail.com)
 
 Hacker, tinkerer, and engineer. I am passionate about machine learning, AI, and
 anything technology related.
